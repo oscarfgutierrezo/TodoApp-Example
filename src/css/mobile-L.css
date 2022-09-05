@@ -1,0 +1,8 @@
+.add-task {
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.add-task button {
+  width: 15rem;
+}
